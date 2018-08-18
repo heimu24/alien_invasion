@@ -16,3 +16,4 @@
 #### `运行方法`：新建文件夹alien_invasion，然后把代码和images文件夹download进去，然后直接运行alien_invasion.py文件即可。
 
 
+![alien_invasion](http://pde1go5wo.bkt.clouddn.com/18-8-18/92551457.jpg)
